@@ -22,3 +22,11 @@ pip install -r requirements.txt
 
 2. Run:
 streamlit run app.py
+
+## Screenshots
+
+### Event Input Form
+![Event Form](screenshot_form.png)
+
+### Generated Output
+![Generated Output](screenshot_output_v1.png)
