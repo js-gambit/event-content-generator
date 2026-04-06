@@ -69,7 +69,7 @@ FAQs:
 If generating 3 variations, return the result in this format:
 
 Version 1:
----
+-
 Description:
 [write description]
 
@@ -84,8 +84,9 @@ FAQs:
 - Q: [question]
   A: [answer]
 
+---
 Version 2:
----
+-
 Description:
 [write description]
 
@@ -99,9 +100,10 @@ FAQs:
   A: [answer]
 - Q: [question]
   A: [answer]
-
-Version 3:
+  
 ---
+  Version 3:
+-
 Description:
 [write description]
 
