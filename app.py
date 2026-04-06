@@ -51,7 +51,6 @@ You are an AI assistant that generates structured event content.
 
 If generating 1 version, return the result in this format:
 
-Version 1:
 ---
 Description:
 [write description]
